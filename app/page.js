@@ -17,9 +17,9 @@ export default function Home() {
           <button class="bg-red-600 mt-2 mr-2 w-[72px] h-[30px] rounded-md text-sm text-white ">로그인</button>
         </div>
         <div class="text-center absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-            <h1 class="text-3xl font-semibold">영화, 시리즈 등을 <br></br>무제한으로</h1>
-            <p class="text-base mt-10">5,500원으로 시작하세요. 맴버십은 언제든 해지 가능.</p>
-            <p class="text-base mt-10">시청할 준비가 되셨나요? 맴버십을 등록하거나 재시작하려면 이메일 주소를 입력하세요</p>
+            <h1 class="text-4xl font-semibold">영화, 시리즈 등을 <br></br>무제한으로</h1>
+            <p class="text-base mt-3">5,500원으로 시작하세요. 맴버십은 언제든 해지 가능.</p>
+            <p class="text-base mt-5">시청할 준비가 되셨나요? 맴버십을 등록하거나 재시작하려면 이메일 주소를 입력하세요</p>
             <input 
               type="email" 
               placeholder="이메일 주소"
